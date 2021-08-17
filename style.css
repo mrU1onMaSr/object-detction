@@ -1,0 +1,18 @@
+body{
+    background-position: center;
+    background-size:auto;
+    text-align: center;
+}
+
+a{
+    font-size: 30px;
+    background-color: ghostwhite;
+    width: 50%;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    color: ghostwhite;
+    font-size: 40px;
+}
